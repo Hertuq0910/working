@@ -1,0 +1,209 @@
+*{
+    margin: 0; 
+    border: 0; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: orangered;
+}
+ 
+/* Estilos para el header */
+header {
+    background-color: #ffffff; /* Fondo blanco */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_header {
+    display: flex; 
+    align-items: center; 
+    padding: 20px; 
+}
+
+.logo{
+    margin-right: 40px;
+    width: 300px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 347px;
+}
+.anuncio {
+    width: 550px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+/*Main Donas*/
+.main_donas {
+    width: 100%;
+    max-width: none; 
+    display: block; 
+    margin: 0 auto; 
+    position: relative;
+    top: -38px;
+    z-index: 1;
+}
+/*Postre*/
+
+body{
+    background-color: #754a1f;
+}
+
+.box{
+    margin-top: -20px;
+    background-color: #ffffff;
+    width: 270px;
+    display: inline-block;
+    padding: 20px 150px;
+    border-radius: 30px;
+    color: #754a1f;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 200px;
+    font-weight: 750;
+    font-size: 40px;
+}
+.parrafo{
+    color: white;
+    margin-top: 24px;
+    margin-left: 200px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.div_postre{
+    margin-top: 70px;
+}
+.main_postre{
+    width: 100%;
+    max-width: none; 
+    display: block; 
+    margin: 0 auto; 
+
+}
+
+/*Bebidas*/
+.section_bebidas {
+    background-color: orange;
+}
+.div_bebidas {
+    display: flex; 
+    justify-content: center; 
+}
+.text_bebida{
+    margin-top: 40px;
+    width: 500px;
+    margin-bottom: 30px;
+
+}
+.bebida{
+    width: 300px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+}
+
+/*Clases*/
+.section_clases {
+    background-color: rgb(49, 136, 9);
+}
+.div_clases {
+    display: flex; 
+    justify-content: center; 
+}
+.tablero{
+    margin-top: 40px;
+    width: 300px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+}
+.text_clases{
+    width: 500px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+/*PROMO*/
+.section_prom{
+    background-color: rgb(235, 13, 135);
+}
+.div_prom {
+    display: flex; 
+    justify-content: center; 
+}
+.promo{
+    margin-top: 40px;
+    width: 400px;
+    height: 200px;
+    margin-right: 40px;
+}
+.donas_prom{
+    width: 280px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*PROMO LINK*/
+.div_link{
+    display: flex; 
+    justify-content: center; 
+}
+.link{
+    width: 870px;
+    height: 30px;
+}
+
+/*PROMO LINK*/
+.div_parrafo_prom{
+    display: flex; 
+    justify-content: center; 
+}
+.parrafo_prom{
+    width: 1100px;
+    height: 200px;
+}
+
+/*FOOTER*/
+.footer{
+    background-color: #ffffff;
+}
+
+.numeral{
+    display: flex; 
+    justify-content: center;
+}
+.img_numeral{
+    margin-top: 15px;
+    width: 350px; 
+}
+    /*iconos*/
+.redes{
+    display: flex; 
+    justify-content: center;
+}
+
+.redes img{
+    margin-left: 40px;
+    width: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/*PARRAFO FOOTER*/
+.parrafo_footer{ 
+    justify-content: center;
+    color: #754a1f;
+}
+.centrado {
+    text-align: center;
+}
+.parrafo_footer p{
+    margin-top: 20px;
+}
+.parrafo_footer a{
+    text-decoration: none;
+    color: #754a1f;
+    font-weight: bold;
+}
+
